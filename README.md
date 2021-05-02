@@ -1,2 +1,2 @@
-# VideojuegoPF
-Videojuego Educativo de Algoritmos
+# VideogamePF
+Educational Algorithm Video Game (in spanish)
